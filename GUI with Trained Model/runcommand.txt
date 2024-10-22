@@ -1,0 +1,5 @@
+use command 
+
+streamlit run --server.port 8502 app.py 
+
+in a new terminal to run the application
