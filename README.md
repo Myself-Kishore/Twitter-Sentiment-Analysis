@@ -1,6 +1,6 @@
 # _Twitter-Sentiment-Analysis_
 
-### This project is a Twitter Sentiment Analysis web application built using Flask for the backend, Tweepy for accessing the Twitter API, and TextBlob for sentiment analysis. Here’s a summary of the functionality:
+### _This project is a Twitter Sentiment Analysis web application built using Flask for the backend, Tweepy for accessing the Twitter API, and TextBlob for sentiment analysis. Here’s a summary of the functionality_
 
 ### _**Tweet Cleaning:**_ 
 
@@ -17,9 +17,7 @@ The get_tweets function fetches a specified number of tweets using Tweepy’s AP
 
 ### _**Flask Routes:**_
 
-### _**Home Route (/):**_
-
-Displays the main interface with two options for sentiment analysis.
+Home Route (/):Displays the main interface with two options for sentiment analysis.
 Phrase-Level Sentiment Analysis (/predict): Fetches and analyzes multiple tweets based on a query.
 Sentence-Level Sentiment Analysis (/predict1): Analyzes the sentiment of a single user-provided sentence.
 
