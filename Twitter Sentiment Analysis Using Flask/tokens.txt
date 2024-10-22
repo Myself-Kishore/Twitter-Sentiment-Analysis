@@ -1,0 +1,11 @@
+API
+mSmiAzUR2XT4KpYccS08hHFvm
+
+API Secret Key
+fUb9tpu18hGOqocjvVNzzNa5Kpv18f7VoTVoKipdnIx1dSu0r3
+
+Access Token
+1780906455761293312-kMmgdevTonx2MxtGkF8wPC86kyOwYT
+
+Access Token Secret
+PFrXJ2E82WOTe0TGwpdgJXZrqXwCMFOeaoHKvmpPUoDpm

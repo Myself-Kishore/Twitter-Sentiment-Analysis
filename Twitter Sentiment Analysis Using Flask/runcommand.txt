@@ -1,0 +1,4 @@
+use run and start debugging the app.py
+
+then alfer a successfull completetion a local host will appear
+xlick the local host to get the required applicatio to analyze the data.
