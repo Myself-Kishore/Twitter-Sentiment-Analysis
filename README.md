@@ -26,4 +26,5 @@ Sentence-Level Sentiment Analysis (/predict1): Analyzes the sentiment of a singl
 The app uses Bootstrap for a responsive layout and includes two forms:
 
 One for phrase-level sentiment analysis (tweet fetching).
+
 One for sentence-level sentiment analysis (user input).
